@@ -1,0 +1,7 @@
+telebot
+aiohttp
+pyyaml
+pygithub
+flask
+requests
+python-telegram-bot

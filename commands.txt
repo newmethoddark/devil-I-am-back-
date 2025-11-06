@@ -1,0 +1,7 @@
+pip install -r requirements.txt
+python3 bot.py
+
+
+METHOD BY @EveryoneskIng
+
+copy pasters ki maa ka bhosda
